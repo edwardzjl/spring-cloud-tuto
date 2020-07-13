@@ -1,4 +1,4 @@
-package org.zjl.spring.cloud.tuto;
+package org.zjl.spring.cloud.tutoiral.config.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
